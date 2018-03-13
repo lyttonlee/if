@@ -493,6 +493,45 @@ export default {
             {attr: '防御', val: 0},
             {attr: '魔防', val: 20}
           ]
+        },
+        {
+          classical: '轻骑士',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 15},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 5}
+          ]
+        },
+        {
+          classical: '圣骑士',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 15},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 10}
+          ]
+        },
+        {
+          classical: '重骑士',
+          professionalup: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 20},
+            {attr: '魔防', val: 0}
+          ]
         }
       ],
       persons: [
@@ -501,14 +540,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Kamui.png',
           ablity: [
-            {attr: 'hp', val: 18},
+            {attr: 'hp', val: 19},
             {attr: '力量', val: 7},
             {attr: '魔力', val: 4},
             {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '速度', val: 8},
+            {attr: '运气', val: 3},
+            {attr: '防御', val: 6},
+            {attr: '魔防', val: 2}
           ],
           personup: [
             {attr: 'hp', val: 45},
@@ -526,14 +565,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Aqua.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: 'hp', val: 16},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 2},
+            {attr: '技术', val: 8},
+            {attr: '速度', val: 8},
+            {attr: '运气', val: 6},
+            {attr: '防御', val: 4},
+            {attr: '魔防', val: 7}
           ],
           personup: [
             {attr: 'hp', val: 25},
@@ -551,14 +590,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Felicia.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
+            {attr: 'hp', val: 19},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 9},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 12},
             {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '魔防', val: 9}
           ],
           personup: [
             {attr: 'hp', val: 40},
@@ -576,14 +615,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Joker.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: 'hp', val: 21},
+            {attr: '力量', val: 8},
+            {attr: '魔力', val: 6},
+            {attr: '技术', val: 12},
+            {attr: '速度', val: 9},
+            {attr: '运气', val: 10},
+            {attr: '防御', val: 7},
+            {attr: '魔防', val: 6}
           ],
           personup: [
             {attr: 'hp', val: 50},
@@ -598,17 +637,17 @@ export default {
         },
         {
           name: '凉风',
-          lv: 1,
+          lv: 3,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Suzukaze.png',
           ablity: [
-            {attr: 'hp', val: 18},
+            {attr: 'hp', val: 19},
             {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 9},
+            {attr: '速度', val: 12},
+            {attr: '运气', val: 4},
             {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '魔防', val: 10}
           ],
           personup: [
             {attr: 'hp', val: 55},
@@ -623,17 +662,17 @@ export default {
         },
         {
           name: '塞拉斯',
-          lv: 1,
+          lv: 6,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Silas.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: 'hp', val: 22},
+            {attr: '力量', val: 11},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 9},
+            {attr: '速度', val: 8},
+            {attr: '运气', val: 7},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 5}
           ],
           personup: [
             {attr: 'hp', val: 40},
@@ -651,14 +690,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Mozume.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: 'hp', val: 17},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 4},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 3},
+            {attr: '防御', val: 4},
+            {attr: '魔防', val: 0}
           ],
           personup: [
             {attr: 'hp', val: 40},
@@ -676,14 +715,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Sakura.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
+            {attr: 'hp', val: 16},
+            {attr: '力量', val: 3},
+            {attr: '魔力', val: 6},
+            {attr: '技术', val: 5},
             {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
+            {attr: '运气', val: 9},
             {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '魔防', val: 7}
           ],
           personup: [
             {attr: 'hp', val: 45},
@@ -698,17 +737,17 @@ export default {
         },
         {
           name: '燐火',
-          lv: 1,
+          lv: 4,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Rinka.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 8},
+            {attr: '魔力', val: 2},
+            {attr: '技术', val: 6},
+            {attr: '速度', val: 8},
             {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 3}
           ],
           personup: [
             {attr: 'hp', val: 20},
@@ -723,17 +762,17 @@ export default {
         },
         {
           name: '风花',
-          lv: 1,
+          lv: 4,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Kazahana.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 9},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 11},
+            {attr: '速度', val: 11},
             {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: '防御', val: 6},
+            {attr: '魔防', val: 9}
           ],
           personup: [
             {attr: 'hp', val: 25},
@@ -748,17 +787,17 @@ export default {
         },
         {
           name: '椿',
-          lv: 1,
+          lv: 5,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Tsubaki.png',
           ablity: [
-            {attr: 'hp', val: 18},
-            {attr: '力量', val: 7},
-            {attr: '魔力', val: 4},
-            {attr: '技术', val: 7},
-            {attr: '速度', val: 7},
-            {attr: '运气', val: 5},
-            {attr: '防御', val: 5},
-            {attr: '魔防', val: 4}
+            {attr: 'hp', val: 22},
+            {attr: '力量', val: 8},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 13},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 7},
+            {attr: '防御', val: 9},
+            {attr: '魔防', val: 10}
           ],
           personup: [
             {attr: 'hp', val: 55},
@@ -769,6 +808,106 @@ export default {
             {attr: '运气', val: 25},
             {attr: '防御', val: 45},
             {attr: '魔防', val: 5}
+          ]
+        },
+        {
+          name: '才藏',
+          lv: 7,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Saizou.png',
+          ablity: [
+            {attr: 'hp', val: 23},
+            {attr: '力量', val: 11},
+            {attr: '魔力', val: 3},
+            {attr: '技术', val: 14},
+            {attr: '速度', val: 11},
+            {attr: '运气', val: 9},
+            {attr: '防御', val: 9},
+            {attr: '魔防', val: 7}
+          ],
+          personup: [
+            {attr: 'hp', val: 40},
+            {attr: '力量', val: 50},
+            {attr: '魔力', val: 45},
+            {attr: '技术', val: 60},
+            {attr: '速度', val: 30},
+            {attr: '运气', val: 55},
+            {attr: '防御', val: 45},
+            {attr: '魔防', val: 10}
+          ]
+        },
+        {
+          name: '大蛇',
+          lv: 5,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Orochi.png',
+          ablity: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 0},
+            {attr: '魔力', val: 9},
+            {attr: '技术', val: 11},
+            {attr: '速度', val: 7},
+            {attr: '运气', val: 6},
+            {attr: '防御', val: 5},
+            {attr: '魔防', val: 10}
+          ],
+          personup: [
+            {attr: 'hp', val: 35},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 65},
+            {attr: '技术', val: 50},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 35},
+            {attr: '防御', val: 25},
+            {attr: '魔防', val: 45}
+          ]
+        },
+        {
+          name: '日乃香',
+          lv: 8,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Hinoka.png',
+          ablity: [
+            {attr: 'hp', val: 23},
+            {attr: '力量', val: 9},
+            {attr: '魔力', val: 4},
+            {attr: '技术', val: 13},
+            {attr: '速度', val: 16},
+            {attr: '运气', val: 12},
+            {attr: '防御', val: 9},
+            {attr: '魔防', val: 15}
+          ],
+          personup: [
+            {attr: 'hp', val: 45},
+            {attr: '力量', val: 45},
+            {attr: '魔力', val: 15},
+            {attr: '技术', val: 40},
+            {attr: '速度', val: 45},
+            {attr: '运气', val: 45},
+            {attr: '防御', val: 35},
+            {attr: '魔防', val: 40}
+          ]
+        },
+        {
+          name: '拓海',
+          lv: 11,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Takumi.png',
+          ablity: [
+            {attr: 'hp', val: 26},
+            {attr: '力量', val: 13},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 17},
+            {attr: '速度', val: 11},
+            {attr: '运气', val: 13},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 4}
+          ],
+          personup: [
+            {attr: 'hp', val: 50},
+            {attr: '力量', val: 35},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 60},
+            {attr: '速度', val: 40},
+            {attr: '运气', val: 45},
+            {attr: '防御', val: 35},
+            {attr: '魔防', val: 20}
           ]
         }
       ],
