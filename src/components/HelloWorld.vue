@@ -532,6 +532,240 @@ export default {
             {attr: '防御', val: 20},
             {attr: '魔防', val: 0}
           ]
+        },
+        {
+          classical: '重甲骑士(下位职业)',
+          professionalup: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 10},
+            {attr: '防御', val: 20},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '将军',
+          professionalup: [
+            {attr: 'hp', val: 25},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 0},
+            {attr: '运气', val: 10},
+            {attr: '防御', val: 20},
+            {attr: '魔防', val: 5}
+          ]
+        },
+        {
+          classical: '斧战士',
+          professionalup: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 25},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 5},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '狂战士',
+          professionalup: [
+            {attr: 'hp', val: 30},
+            {attr: '力量', val: 25},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '佣兵',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 20},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 5}
+          ]
+        },
+        {
+          classical: '勇者',
+          professionalup: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 20},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '盗贼',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 10},
+            {attr: '魔力', val: 5},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 20},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 20}
+          ]
+        },
+        {
+          classical: '弓骑士',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 10},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 10},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 10}
+          ]
+        },
+        {
+          classical: '冒险家',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 15},
+            {attr: '技术', val: 5},
+            {attr: '速度', val: 20},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 20}
+          ]
+        },
+        {
+          classical: '龙骑士',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 5},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 20},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '龙骑统帅',
+          professionalup: [
+            {attr: 'hp', val: 10},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 15},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 20},
+            {attr: '魔防', val: 0}
+          ]
+        },
+        {
+          classical: '魔龙骑士',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 15},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 15}
+          ]
+        },
+        {
+          classical: '暗魔法师',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 10},
+            {attr: '魔力', val: 20},
+            {attr: '技术', val: 0},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 5},
+            {attr: '魔防', val: 15}
+          ]
+        },
+        {
+          classical: '巫师',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 0},
+            {attr: '魔力', val: 25},
+            {attr: '技术', val: 0},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 0},
+            {attr: '防御', val: 5},
+            {attr: '魔防', val: 15}
+          ]
+        },
+        {
+          classical: '黑暗骑士',
+          professionalup: [
+            {attr: 'hp', val: 15},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 10},
+            {attr: '技术', val: 5},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 15},
+            {attr: '魔防', val: 5}
+          ]
+        },
+        {
+          classical: '杖骑士',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 0},
+            {attr: '魔力', val: 10},
+            {attr: '技术', val: 20},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 15},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 15}
+          ]
+        },
+        {
+          classical: '战术师',
+          professionalup: [
+            {attr: 'hp', val: 0},
+            {attr: '力量', val: 0},
+            {attr: '魔力', val: 15},
+            {attr: '技术', val: 5},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 20},
+            {attr: '防御', val: 0},
+            {attr: '魔防', val: 15}
+          ]
+        },
+        {
+          classical: '狼人(逐月狼人)',
+          professionalup: [
+            {attr: 'hp', val: 20},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 5},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 10},
+            {attr: '魔防', val: 0}
+          ]
         }
       ],
       persons: [
@@ -690,14 +924,14 @@ export default {
           lv: 1,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Mozume.png',
           ablity: [
-            {attr: 'hp', val: 17},
-            {attr: '力量', val: 5},
+            {attr: 'hp', val: 16},
+            {attr: '力量', val: 6},
             {attr: '魔力', val: 0},
-            {attr: '技术', val: 4},
-            {attr: '速度', val: 5},
-            {attr: '运气', val: 3},
+            {attr: '技术', val: 8},
+            {attr: '速度', val: 7},
+            {attr: '运气', val: 2},
             {attr: '防御', val: 4},
-            {attr: '魔防', val: 0}
+            {attr: '魔防', val: 2}
           ],
           personup: [
             {attr: 'hp', val: 40},
@@ -886,6 +1120,31 @@ export default {
           ]
         },
         {
+          name: '刹那',
+          lv: 3,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Setsuna.png',
+          ablity: [
+            {attr: 'hp', val: 19},
+            {attr: '力量', val: 8},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 9},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 6},
+            {attr: '防御', val: 5},
+            {attr: '魔防', val: 3}
+          ],
+          personup: [
+            {attr: 'hp', val: 30},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 30},
+            {attr: '速度', val: 60},
+            {attr: '运气', val: 30},
+            {attr: '防御', val: 15},
+            {attr: '魔防', val: 40}
+          ]
+        },
+        {
           name: '胧',
           lv: 10,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Oboro.png',
@@ -958,6 +1217,206 @@ export default {
             {attr: '运气', val: 45},
             {attr: '防御', val: 35},
             {attr: '魔防', val: 20}
+          ]
+        },
+        {
+          name: '锦',
+          lv: 14,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Nishiki.png',
+          ablity: [
+            {attr: 'hp', val: 30},
+            {attr: '力量', val: 15},
+            {attr: '魔力', val: 1},
+            {attr: '技术', val: 12},
+            {attr: '速度', val: 19},
+            {attr: '运气', val: 14},
+            {attr: '防御', val: 9},
+            {attr: '魔防', val: 14}
+          ],
+          personup: [
+            {attr: 'hp', val: 45},
+            {attr: '力量', val: 40},
+            {attr: '魔力', val: 10},
+            {attr: '技术', val: 25},
+            {attr: '速度', val: 45},
+            {attr: '运气', val: 50},
+            {attr: '防御', val: 35},
+            {attr: '魔防', val: 40}
+          ]
+        },
+        {
+          name: '龙马',
+          lv: 24,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Ryouma.png',
+          ablity: [
+            {attr: 'hp', val: 36},
+            {attr: '力量', val: 20},
+            {attr: '魔力', val: 2},
+            {attr: '技术', val: 18},
+            {attr: '速度', val: 24},
+            {attr: '运气', val: 20},
+            {attr: '防御', val: 16},
+            {attr: '魔防', val: 13}
+          ],
+          personup: [
+            {attr: 'hp', val: 50},
+            {attr: '力量', val: 45},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 50},
+            {attr: '速度', val: 45},
+            {attr: '运气', val: 40},
+            {attr: '防御', val: 35},
+            {attr: '魔防', val: 25}
+          ]
+        },
+        {
+          name: '爱丽丝',
+          lv: 5,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Elise.png',
+          ablity: [
+            {attr: 'hp', val: 19},
+            {attr: '力量', val: 2},
+            {attr: '魔力', val: 11},
+            {attr: '技术', val: 5},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 14},
+            {attr: '防御', val: 4},
+            {attr: '魔防', val: 11}
+          ],
+          personup: [
+            {attr: 'hp', val: 30},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 65},
+            {attr: '技术', val: 25},
+            {attr: '速度', val: 55},
+            {attr: '运气', val: 70},
+            {attr: '防御', val: 15},
+            {attr: '魔防', val: 40}
+          ]
+        },
+        {
+          name: '哈罗德',
+          lv: 7,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Harold.png',
+          ablity: [
+            {attr: 'hp', val: 29},
+            {attr: '力量', val: 12},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 9},
+            {attr: '速度', val: 8},
+            {attr: '运气', val: 1},
+            {attr: '防御', val: 9},
+            {attr: '魔防', val: 4}
+          ],
+          personup: [
+            {attr: 'hp', val: 50},
+            {attr: '力量', val: 45},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 55},
+            {attr: '速度', val: 35},
+            {attr: '运气', val: 5},
+            {attr: '防御', val: 45},
+            {attr: '魔防', val: 20}
+          ]
+        },
+        {
+          name: '艾尔菲',
+          lv: 6,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Elfie.png',
+          ablity: [
+            {attr: 'hp', val: 23},
+            {attr: '力量', val: 13},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 8},
+            {attr: '速度', val: 5},
+            {attr: '运气', val: 10},
+            {attr: '防御', val: 12},
+            {attr: '魔防', val: 4}
+          ],
+          personup: [
+            {attr: 'hp', val: 35},
+            {attr: '力量', val: 60},
+            {attr: '魔力', val: 0},
+            {attr: '技术', val: 35},
+            {attr: '速度', val: 50},
+            {attr: '运气', val: 50},
+            {attr: '防御', val: 35},
+            {attr: '魔防', val: 30}
+          ]
+        },
+        {
+          name: '奥丁',
+          lv: 5,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Odin.png',
+          ablity: [
+            {attr: 'hp', val: 21},
+            {attr: '力量', val: 5},
+            {attr: '魔力', val: 8},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 7},
+            {attr: '运气', val: 9},
+            {attr: '防御', val: 6},
+            {attr: '魔防', val: 7}
+          ],
+          personup: [
+            {attr: 'hp', val: 55},
+            {attr: '力量', val: 35},
+            {attr: '魔力', val: 30},
+            {attr: '技术', val: 55},
+            {attr: '速度', val: 35},
+            {attr: '运气', val: 60},
+            {attr: '防御', val: 40},
+            {attr: '魔防', val: 20}
+          ]
+        },
+        {
+          name: '零',
+          lv: 8,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Zero.png',
+          ablity: [
+            {attr: 'hp', val: 22},
+            {attr: '力量', val: 9},
+            {attr: '魔力', val: 5},
+            {attr: '技术', val: 9},
+            {attr: '速度', val: 15},
+            {attr: '运气', val: 6},
+            {attr: '防御', val: 7},
+            {attr: '魔防', val: 12}
+          ],
+          personup: [
+            {attr: 'hp', val: 40},
+            {attr: '力量', val: 35},
+            {attr: '魔力', val: 20},
+            {attr: '技术', val: 40},
+            {attr: '速度', val: 50},
+            {attr: '运气', val: 30},
+            {attr: '防御', val: 30},
+            {attr: '魔防', val: 40}
+          ]
+        },
+        {
+          name: '神奈',
+          lv: 11,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Kanna.png',
+          ablity: [
+            {attr: 'hp', val: 25},
+            {attr: '力量', val: 13},
+            {attr: '魔力', val: 10},
+            {attr: '技术', val: 14},
+            {attr: '速度', val: 16},
+            {attr: '运气', val: 14},
+            {attr: '防御', val: 11},
+            {attr: '魔防', val: 8}
+          ],
+          personup: [
+            {attr: 'hp', val: 30},
+            {attr: '力量', val: 35},
+            {attr: '魔力', val: 30},
+            {attr: '技术', val: 40},
+            {attr: '速度', val: 45},
+            {attr: '运气', val: 45},
+            {attr: '防御', val: 25},
+            {attr: '魔防', val: 25}
           ]
         }
       ],
