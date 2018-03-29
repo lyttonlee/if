@@ -1145,6 +1145,31 @@ export default {
           ]
         },
         {
+          name: '浅间',
+          lv: 8,
+          avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Asama.png',
+          ablity: [
+            {attr: 'hp', val: 25},
+            {attr: '力量', val: 9},
+            {attr: '魔力', val: 7},
+            {attr: '技术', val: 10},
+            {attr: '速度', val: 10},
+            {attr: '运气', val: 13},
+            {attr: '防御', val: 11},
+            {attr: '魔防', val: 8}
+          ],
+          personup: [
+            {attr: 'hp', val: 55},
+            {attr: '力量', val: 50},
+            {attr: '魔力', val: 20},
+            {attr: '技术', val: 40},
+            {attr: '速度', val: 45},
+            {attr: '运气', val: 40},
+            {attr: '防御', val: 40},
+            {attr: '魔防', val: 20}
+          ]
+        },
+        {
           name: '胧',
           lv: 10,
           avatar: 'http://fcfantasy.cn/fe2015/image/portrait100/Oboro.png',
